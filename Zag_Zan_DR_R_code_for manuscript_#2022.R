@@ -1,6 +1,7 @@
 ## Emilio Zagheni
 ## Sept 16, 2013
 ## Analyze MTUS data for Descriptive Findings series of Demographic Research
+## The publication can be found here: http://demographic-research.org/volumes/vol29/35/default.htm
 ## README, IMPORTANT: this code requires the MTUS W53 data set ("MTUS_W53.sav") that you could download for free from the Multinational Time Use Study webpage (http://www.timeuse.org/mtus/download). The size of the file is about 86 MB.
 ##The only other data input required is the file "datapopsize.csv", extracted from the UN World Population Prospects 2010. You can find that file in this folder.
 ##The code will generate other datasets from the two data files. The datasets will be use as input for some parts of the analysis
